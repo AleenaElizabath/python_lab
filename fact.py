@@ -8,4 +8,4 @@ num=int(input("Enter a number:"))
 if num<0:
     print("Invalid input")
 else:
-    print("The factorial of", num, "is",factorial(num))
+    print("The factorial of", num, "is ",factorial(num))
