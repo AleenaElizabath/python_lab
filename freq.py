@@ -1,5 +1,4 @@
 string = input("Enter a string: ")
-
 # Create an empty set to track characters we've already processed
 processed = set()
 
